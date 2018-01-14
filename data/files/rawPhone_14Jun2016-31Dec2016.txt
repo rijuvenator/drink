@@ -1,0 +1,430 @@
+Jun 14
+0.8 heineken B
+
+Jun 17
+1 hoegaarden B
+1 Budweiser B
+
+Jun 18
+1.5 red wine W
+1 Heineken B
+
+Jun 19
+1.5 Heineken B
+
+Jun 20
+1.4 London Pride B
+1 Honey whiskey L
+1 jäger L
+
+Jun 22
+2 kronenbourg B
+
+Jun 24
+1 hoegaarden B
+0.5 Cardinal B
+
+Jun 27
+1.3 London Pride B
+
+Jun 28
+1 caol ila 12 yr L
+1 domaine du paradis W
+
+Jul 1
+1 feldschlosschen B
+2 Heineken B
+
+Jul 2
+1 luz de palacio W
+2 Saint emilion W
+1.7 aperol spritz L
+
+Jul 4
+2 Heineken B
+1 Budweiser B
+1.3 erdinger B
+1 Tennessee honey L
+1 jäger L
+
+Jul 6
+2.6 gessienne B
+2.6 Heineken B
+1 limoncello L
+
+Jul 7
+1.2 red wine W
+1 limoncello L
+1 red wine W
+
+Jul 11
+1.3 London Pride B
+1.3 Guinness B
+
+Jul 15
+1.3 Cardinal B
+1.3 Saint Omer B
+1 Jameson L
+1 leffe B
+0.3 chimay bleu B
+
+Jul 18
+1.3 London Pride B
+
+Jul 20
+3 amber B
+
+Jul 21
+0.25 aperitif L
+
+Jul 22
+1.3 Canette B
+
+Jul 23
+1 ipanema B
+2 Jim beam L
+1 red wine W
+1 baileys L
+1 corralejo tequila L
+1 ballantines L
+2 Jim beam L
+1 Baileys L
+
+Jul 25
+1 banana liqueur L
+
+Jul 27
+1.3 gessienne B
+
+Jul 29
+0.5 champagne W
+1 ardbeg L
+1 feldschlosschen B
+2 Cardinal B
+0.7 panache B
+1 limoncello L
+
+Jul 30
+1 corona B
+1 hemp beer B
+0.5 champagne W
+1.5 carlberg B
+
+Aug 2
+1.3 Canette B
+
+Aug 4
+2 gamay W
+
+Aug 5
+1 oban L
+1 white wine W
+2 white wine W
+
+Aug 8
+1.3 London Pride B
+1.3 Stella Artois B
+4 Tennessee honey L
+
+Aug 10
+1 einhof B
+1.3 erdinger B
+
+Aug 11
+1 oban L
+1.5 aperol spritz L
+1.3 Kilkenny B
+1.3 ice cold Heineken B
+
+Aug 12
+1 feldschlosschen B
+1.2 amber B
+
+Aug 13
+0.8 Heineken B
+2.6 chopfab B
+1.3 feldschlosschen B
+1 mojito L
+1 tequila L
+1 honey whiskey L
+1 jäger L
+1 tequila L
+1.3 Heineken B
+
+Aug 15
+0.4 jäger L
+
+Aug 17
+1.6 1664 B
+
+Aug 19
+1 montepulciano W
+1 Chianti W
+1 prosecco W
+
+Aug 20
+1.3 chopfab B
+0.5 Jim beam L
+2 Stani rakia L
+1 amber B
+2 1664 B
+1.3 ambree B
+
+Aug 22
+2 London Pride B
+
+Aug 24
+1.3 gessienne B
+
+Aug 26
+3 Cardinal B
+
+Aug 29
+1 jäger L
+
+Aug 30
+0.5 mezcal L
+
+Sep 5
+1 jäger L
+
+Sep 6
+2 chasselas W
+1 champagne W
+
+Sep 9
+1 tequila sunrise L
+
+Sep 11
+2 red wine W
+
+Sep 13
+1 oban L
+
+Sep 16
+0.8 Cardinal B
+0.4 red wine W
+1 achtai drink L
+
+Sep 17
+1 white wine W
+
+Sep 19
+1.3 London Pride B
+1.3 Strongbow B
+
+Sep 22
+2 red wine W
+
+Sep 23
+1.3 carlsberg B
+
+Sep 26
+1.3 London Pride B
+1.3 Strongbow B
+
+Sep 29
+1.3 amber B
+1 red wine pop up W
+
+Oct 1
+0.5 Kahlua L
+0.5 Baileys L
+1 gin and tonic L
+1 cuba libre L
+
+Oct 3
+1 oban L
+1.3 London Pride B
+1.3 carlberg B
+1.3 Strongbow B
+
+Oct 9
+2 red wine W
+
+Oct 10
+1.3 London Pride B
+2 erdinger B
+
+Oct 13
+1.3 Kilkenny B
+0.5 Strongbow Red Berry B
+
+Oct 14
+3 R1 wine W
+1.3 Canette B
+
+Oct 15
+1 mojito L
+
+Oct 16
+1 champagne W
+1.1 white wine W
+
+Oct 19
+1.1 red wine W
+
+Oct 20
+1.6 smog city coffee Porter B
+
+Oct 22
+1 coffee Porter B
+1 extra special bitter B
+
+Oct 23
+0.5 bourbon stout B
+0.5 bourbon stout B
+1 Rebel IPA grapefruit B
+1 Sculpin B
+1 Guate libre L
+1 Irish mule L
+1 Fathom ipa B
+1 Orange wheat B
+1 Karl Strauss B
+1 Mermaid red B
+2 Sierra Nevada Pale Ale B
+CIGAR
+
+Oct 26
+1 angel city beer B
+1 Korbel W
+1 PBR B
+1 America B
+
+Oct 28
+1 hite B
+1 coffee Porter B
+1.3 imperial red B
+1 gin tonic L
+3.5 Long Island iced tea L
+2 margarita L
+0.5 miscellaneous sips and finishes B
+
+Oct 31
+1.3 London Pride B
+1.3 Strongbow B
+1.8 honey whiskey L
+
+Nov 4
+0.5 Cardinal B
+
+Nov 5
+4.5 Chardonnay W
+
+Nov 6
+1.3 brune bierre B
+
+Nov 7
+1.3 Strongbow B
+0.9 jäger L
+0.8 Pilsner urquell B
+0.9 jäger L
+0.9 jäger L
+0.9 jäger L
+0.9 jäger L
+0.9 jäger L
+
+Nov 9
+1.3 Heineken B
+
+Nov 13
+1 rose W
+1 limoncello L
+
+Nov 14
+2 tequila L
+0.8 Guinness B
+
+Nov 16
+1 montepulciano W
+
+Nov 18
+1 Cardinal B
+
+Nov 19
+1 amaretto L
+1 Navarre W
+1 Kwak B
+2.5 LIIT L
+2 honey whiskey L
+2.5 LIIT L
+1 Jägermeister L
+2 mojito L
+1 Jägermeister L
+
+Nov 21
+1.3 Strongbow B
+1 honey whiskey L
+1 jäger L
+
+Nov 24
+1 Chardonnay W
+5 red wine W
+
+Nov 26
+4 Nero D'Avola W
+
+Nov 30
+1 white wine W
+
+Dec 1
+1.3 canette B
+
+Dec 2
+1 champagne W
+1 red wine W
+
+Dec 3
+1 glühwein W
+1.3 amber B
+
+Dec 5
+1 jäger L
+
+Dec 7
+2 Beaujolais W
+
+Dec 8
+1 ardbeg L
+2 montepulciano W
+
+Dec 10
+0.5 beer B
+1.3 London Pride B
+1 mojito L
+
+Dec 11
+1 Syrah W
+
+Dec 13
+1.3 effes B
+
+Dec 14
+1 sweet white wine W
+1 Portuguese sweet wine W
+
+Dec 17
+1 mulled wine W
+1 devil beer B
+
+Dec 20
+1 white wine W
+
+Dec 24
+1.5 dauphins W
+
+Dec 25
+2 old monk L
+
+Dec 29
+1 Magic moments mojito B
+
+Dec 30
+5 old monk coke L
+2 blender's L
+
+Dec 31
+1 just bohemian L
+6 old monk L
+0.5 Smirnoff L
+WEED
